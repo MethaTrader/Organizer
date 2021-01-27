@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;1,400&display=swap");
+html, body, * {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.card {
+  width: 55%;
+  margin: 50px auto;
+  border: 1px solid red;
+}
+.card .card-body {
+  min-height: 800px;
+  border-radius: 50px;
+}
+.card .card-body .btn-menu {
+  height: 100px;
+  margin: 10px 0;
+  font-size: 2.5em;
+}
+.card .card-body .card-title {
+  text-align: center;
+  color: #dddddd;
+}
+
+.form-group input {
+  font-size: 2em;
+  outline: none;
+}
+.form-group label {
+  font-size: 2em;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 2px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #DC3545;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #c12525;
+}
+
+/*# sourceMappingURL=style.css.map */

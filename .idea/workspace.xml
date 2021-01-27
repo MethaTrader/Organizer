@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0af7c596-c1e7-4322-a982-e6c7f88fc654" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nOex9nbW0T0kQkMkyzBTqjLJbj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/server.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="D:\Programms\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programms\Open Server\OpenServer\domains\Oranizer\public" />
+      <recent name="D:\Programms\Open Server\OpenServer\domains\Oranizer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af7c596-c1e7-4322-a982-e6c7f88fc654" name="Default Changelist" comment="" />
+      <created>1611265809233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611265809233</updated>
+      <workItem from="1611265810517" duration="3097000" />
+      <workItem from="1611272422043" duration="517000" />
+      <workItem from="1611272969767" duration="4291000" />
+      <workItem from="1611307688455" duration="7805000" />
+      <workItem from="1611326482731" duration="878000" />
+      <workItem from="1611347068865" duration="8290000" />
+      <workItem from="1611485652578" duration="29665000" />
+      <workItem from="1611691756271" duration="8768000" />
+      <workItem from="1611745503901" duration="10425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="146" width="1107" height="783" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611273059325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="406" y="146" width="1107" height="783" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611273059325" />
+    <state x="689" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611273260204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611273260204" />
+    <state x="530" y="192" key="EditFileWatcherDialog" timestamp="1611265923101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="192" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611265923101" />
+    <state x="633" y="173" key="FileChooserDialogImpl" timestamp="1611265835499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="173" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611265835499" />
+    <state width="1897" height="281" key="GridCell.Tab.0.bottom" timestamp="1611277297017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611277297017" />
+    <state width="1897" height="281" key="GridCell.Tab.0.center" timestamp="1611277297017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611277297017" />
+    <state width="1897" height="281" key="GridCell.Tab.0.left" timestamp="1611277297016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611277297016" />
+    <state width="1897" height="281" key="GridCell.Tab.0.right" timestamp="1611277297017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611277297017" />
+    <state x="226" y="0" key="SettingsEditor" timestamp="1611265924626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="226" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611265924626" />
+    <state x="557" y="115" width="805" height="810" key="find.popup" timestamp="1611698330540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="115" width="805" height="810" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611698330540" />
+    <state x="681" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1611755504990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611755504990" />
+  </component>
+</project>
